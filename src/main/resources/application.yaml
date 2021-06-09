@@ -1,0 +1,4 @@
+spring:
+  profiles: localhost
+  application:
+    name: Auction Bid Tracker
